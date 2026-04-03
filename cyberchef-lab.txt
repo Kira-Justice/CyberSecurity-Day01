@@ -1,0 +1,43 @@
+CyberChef Lab - Day 1
+
+----------------------------------------
+1. Base64 Encoding
+----------------------------------------
+Input:
+CyberSecurity123
+
+Output:
+Q3liZXJTZWN1cml0eTEyMw==
+
+----------------------------------------
+2. Base64 Decoding
+----------------------------------------
+Input:
+Q3liZXJIZWxwZXI=
+
+Output:
+CyberHelper
+
+----------------------------------------
+3. AES Encryption
+----------------------------------------
+Input:
+CyberSecurity123
+
+Key:
+mysecretkey123
+
+Mode:
+CBC
+
+Output Format:
+Base64
+
+Encrypted Output:
+[Á¹Úùû	ß7ÃçfJ]
+
+----------------------------------------
+Observations:
+- Base64 is an encoding technique, not encryption
+- AES is a strong encryption algorithm used for securing data
+- Encryption converts readable data into unreadable format
